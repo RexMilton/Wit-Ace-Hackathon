@@ -18,7 +18,7 @@ farmers from directly getting involved in the field.
 
 # Demo video
 
-[![Auto Irrigation](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/GRAB_SCRAP.jpg)](https://youtu.be/GzWhPu2USZA "Auto Irrigation")
+[![Auto Irrigation](https://github.com/RexMilton/Wit-Ace-Hackathon/blob/main/Auto_irrigation.png)](https://youtu.be/GzWhPu2USZA "Auto Irrigation")
 
 
 # Long description
